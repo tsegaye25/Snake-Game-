@@ -1,0 +1,29 @@
+Sound Files for Snake Game
+=======================
+
+The game requires two sound files to be placed in the same directory as your executable:
+
+1. eat.wav - A short sound effect played when the snake eats food
+2. gameover.wav - A sound effect played when the game ends
+
+You can obtain these sound files in several ways:
+
+Option 1: Download free sound effects
+------------------------------------
+Visit websites like freesound.org, soundbible.com, or zapsplat.com to download free WAV sound effects.
+Search for "eat" or "bite" sounds for eat.wav, and "game over" or "fail" sounds for gameover.wav.
+
+Option 2: Create your own
+------------------------
+You can use audio editing software like Audacity (free) to create or edit your own sound effects.
+
+Option 3: Use placeholder sounds
+------------------------------
+If you don't have sound files immediately available, the game will still run, but you won't hear sound effects when eating food or when the game ends.
+
+File Placement
+-------------
+Place both WAV files in the same directory as your executable, which is typically:
+C:\Users\never\Desktop\Snake Game\bin\Debug\
+
+Important: The filenames must be exactly "eat.wav" and "gameover.wav" (all lowercase).
